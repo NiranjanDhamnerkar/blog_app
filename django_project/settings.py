@@ -140,9 +140,19 @@ LOGIN_REDIRECT_URL = 'blog-home' # this is importatnt to do if user login redire
 
 LOGIN_URL = 'login'
 
+BASE_DIR = Path("C:/Users/ASUS/django_project")  # adjust to your folder
+env_path = BASE_DIR / '.env'
+
+if env_path.exists():
+    with open(env_path) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#'):
+                key, value = line.split('=', 1)
+                os.environ[key] = value
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST ='smtp.gmail.com'
+EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = os.environ.get('EMAIL_USER')
