@@ -4,10 +4,10 @@ This app allows authenticated users to create, edit, delete blog posts, manage p
 
 ## 🚀 Features
 ### 🔐 User Authentication -
---Register
---Login
---Logout
---Secure Django authentication system
+**--Register**
+**--Login**
+**--Logout**
+**--Secure Django authentication system**
 
 ### 📝 Blog Post Management (CRUD) -
 --Create new blog post
