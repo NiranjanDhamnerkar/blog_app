@@ -3,7 +3,7 @@ A simple and clean blogging platform built using Python, Django, HTML, CSS.
 This app allows authenticated users to create, edit, delete blog posts, manage profiles, and update passwords securely.
 
 ## 🚀 Features
-###🔐 User Authentication -
+### 🔐 User Authentication -
 --Register
 --Login
 --Logout
