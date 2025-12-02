@@ -1,29 +1,29 @@
-##📝 Blog Application
+## 📝 Blog Application
 A simple and clean blogging platform built using Python, Django, HTML, CSS.
 This app allows authenticated users to create, edit, delete blog posts, manage profiles, and update passwords securely.
 
-##🚀 Features
+## 🚀 Features
 ###🔐 User Authentication -
 --Register
 --Login
 --Logout
 --Secure Django authentication system
 
-###📝 Blog Post Management (CRUD) -
+### 📝 Blog Post Management (CRUD) -
 --Create new blog post
 --Edit existing blog post
 --Delete blog post
 --View your own posts
 
-###👤 User Profile Features -
+### 👤 User Profile Features -
 --Edit profile
 --Update password
 
-###🎨 Frontend -
+### 🎨 Frontend -
 --Responsive UI using Django templates
 --Clean HTML & CSS design
 
-##🧰 Tech Stack -
+## 🧰 Tech Stack -
 --Python
 --Django
 --Django ORM
@@ -32,7 +32,7 @@ This app allows authenticated users to create, edit, delete blog posts, manage p
 --Git & GitHub
 
 
-##⚙️ Installation & Setup -
+## ⚙️ Installation & Setup -
 **1️⃣ Clone the repository**
 git clone https://github.com/NiranjanDhamnerkar/blog_app.git
 cd blog_app
@@ -57,7 +57,7 @@ python manage.py runserver
 http://127.0.0.1:8000/
 
 
-##🔮 Future Enhancements -
+## 🔮 Future Enhancements -
 Add blog images upload
 Add categories/tags
 Add comments system
@@ -65,7 +65,7 @@ Add likes & bookmarks
 Add search & filters
 
 
-##📬 Contact -
+## 📬 Contact -
 **Niranjan Dhamnerkar**
 📧 Email: nirajdhamnerkar@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/niranjandhamnerkar/
