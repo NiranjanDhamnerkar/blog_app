@@ -67,6 +67,6 @@ http://127.0.0.1:8000/
 
 ## 📬 Contact -
 **Niranjan Dhamnerkar**
-📧 Email: nirajdhamnerkar@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/niranjandhamnerkar/
-💻 GitHub: https://github.com/NiranjanDhamnerkar
+- 📧 Email: nirajdhamnerkar@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/niranjandhamnerkar/
+- 💻 GitHub: https://github.com/NiranjanDhamnerkar
